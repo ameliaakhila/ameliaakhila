@@ -2,7 +2,7 @@
 
 <!-- Animated Header Banner -->
 <a href="#" onclick="return false;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&pause=1000&color=0066CC&center=true&vCenter=true&width=600&height=100&lines=Let's+Code!+👨‍💻;Front-End+Developer+💻;AI+Engineer+Enthusiast+🤖" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=2500&pause=120&color=0066CC&center=true&vCenter=true&width=700&lines=Amelia+Akhila;Front-End+Developer;AI+Engineer+Enthusiast" alt="Typing Animation" />
 </a>
 
 <!-- Animated Icon Row -->
