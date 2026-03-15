@@ -2,7 +2,7 @@
 
 <!-- Animated Header Banner -->
 <a href="#" onclick="return false;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=2500&pause=120&color=0066CC&center=true&vCenter=true&width=700&lines=Amelia+Akhila;Front-End+Developer;AI+Engineer+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=2500&pause=120&color=0066CC&center=true&vCenter=true&width=700&lines=Let's+Code;Front-End+Developer;AI+Engineer+Enthusiast" alt="Typing Animation" />
 </a>
 
 <!-- Animated Icon Row -->
@@ -32,30 +32,43 @@
 
 </div>
 
+<div align="center">
+
 ## 👋 About Me
+
+<div align="justify">
+
+I'm a **Informatics Engineering Student** specializing in **Front-End Development** and **Artificial Intelligence Entusiast**. I believe in creating innovative solutions that make an impact. With expertise in building responsive interfaces and exploring AI capabilities, I'm committed to continuous growth and tackling challenging problems.
+
+
+
+> 💡 *"Code is art, data is insight, and technology is the future"*
+
+---
+
+</div>
+
+### 📌 Current Focus
 
 <div align="center">
 
-```
-  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-  ┃       🎯 Passionate Web Developer       ┃
-  ┃       🚀 AI & ML Enthusiast             ┃
-  ┃       💡 Creative Problem Solver        ┃
-  ┃       🤝 Open to Collaboration          ┃
-  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+| Focus | Status | Goal |
+|:---:|:---:|:---:|
+| 🎨 **Laravel & React** | 75% | Patterns & Optimization |
+| 📊 **ML Engineering** | 60% | Model Deployment |
+| 💻 **Web Performance** | 65% | Optimization |
 
 </div>
 
 <details open>
-<summary><strong>📍 Quick Facts</strong></summary>
+<summary><strong>📍 What I Do</strong></summary>
 
-| 🎯 | What I Do |
+| 🎯 | Skills |
 |----|----|
-| 🎨 | Build stunning, responsive web interfaces |
-| 🤖 | Explore AI/ML and Data Science |
-| 💻 | Write clean, efficient code |
-| 📊 | Turn data into insights |
+| 🎨 | Build responsive & interactive web interfaces |
+| 🤖 | Develop AI/ML solutions & data science projects |
+| 💻 | Write clean, efficient, and maintainable code |
+| 📊 | Turn data into actionable insights |
 | 🔧 | Full-stack web development |
 
 </details>
@@ -108,11 +121,10 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ameliaakhila&theme=dark&hide_border=true&border_radius=10&ring=0066cc&fire=FF6B6B&stroke=0066cc" width="400" alt="GitHub Streak" />
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=ameliaakhila&show_icons=true&theme=dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=0066cc&icon_color=0066cc&text_color=ffffff&include_all_commits=true" width="400" alt="GitHub Stats" />
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameliaakhila&layout=compact&theme=dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=0066cc&text_color=ffffff" width="400" alt="Top Languages" />
-
 </div>
 
 ---
